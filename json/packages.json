@@ -2,7 +2,7 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Основной клиент Original",
+      "title" : "Original Main",
       "name" : "Original",
       "version" : "2021-03-25-18-04-33",
       "location" : "original.json",
